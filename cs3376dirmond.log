@@ -1,0 +1,11 @@
+changed password
+changing watch directory.
+Map values: daemon: false , configfile: cs3376dirmond.conf , verbose: true , logfile: cs3376dirmond.log , password: sjppassword , version number: 10 , watch directory: /home/012/e/ej/ejr140230/HW5/test
+Creating PidFile
+Pid of process 757
+Setting watch directory: /home/012/e/ej/ejr140230/HW5/test
+Reading for IN_MODIFY.
+Signal caught in function(SIGINT)
+exiting...
+
+
